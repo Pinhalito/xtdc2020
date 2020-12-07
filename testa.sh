@@ -36,8 +36,3 @@ ls
 xtdc_install(){
 testa1 && testa2 && testa3 && xtdc_up
 }
-
-TIMEFORMAT="%4lR"
-taime="$(TIMEFORMAT="%0lR")"
-time { xtdc_install } 
-
