@@ -1,1 +1,2 @@
 foi=sim
+mesmo=foimesmo
